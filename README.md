@@ -8,6 +8,8 @@ Welcome to my "30 DAYS OF RTL" repository. Here you can have view of my self cha
 
 # CONTENTS
 * [PROGRESS](#PROGRESS)
+* [DESIGN TOOLS USED](#DESIGNTOOLSUSED)
+* [RESOURCES](#RESOURCES)
 
 
 # PROGRESS
@@ -26,4 +28,13 @@ Please refer to the below Table
 |DAY 9|GRAY to BINARY Code Converter using minimum nos. of DEMUX
 |DAY 10|4 Bit Multiplier|
 |Day 11|8 Bit ALU|
-Simulation Tool: MODELSIM
+
+# DESIGN TOOLS USED
+Simulation Tool: MENTOR MODELSIM, SYNOPSYS VCS
+Synthesis Tool: SYNOPSYS DESIGN COMPILER, XILINX VIVADO
+Lint Tool: SYNOPSYS VC SPYGLASS
+
+#RESOURCES
+
+Digital Electronics & Digital Design - Digital Design by Morris Mano & Michael D. Clietti
+Verilog HDL- Verilog HDL, A Guide to Digital Design & Synthesis by Samir Palnitkar
