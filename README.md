@@ -30,6 +30,7 @@ Please refer to the below Table
 |Day 11|8 Bit ALU|
 
 # DESIGN TOOLS USED
+
 Simulation Tool: MENTOR MODELSIM, SYNOPSYS VCS
 
 Synthesis Tool: SYNOPSYS DESIGN COMPILER, XILINX VIVADO
