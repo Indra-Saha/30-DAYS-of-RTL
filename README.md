@@ -37,7 +37,7 @@ Synthesis Tool: SYNOPSYS DESIGN COMPILER, XILINX VIVADO
 
 Lint Tool: SYNOPSYS VC SPYGLASS
 
-#RESOURCES
+# RESOURCES
 
 Digital Electronics & Digital Design - Digital Design by Morris Mano & Michael D. Clietti
 Verilog HDL- Verilog HDL, A Guide to Digital Design & Synthesis by Samir Palnitkar
