@@ -19,5 +19,11 @@ Please refer to the below Table
 |Day 2|N Bit Carry Look Ahead Adder|
 |Day 3|4 Bit BCD Adder Using Carry Look Ahead Adder|
 |Day 4|3X8 Decoder Using 2X4 Decoder|
-
+|DAY 5|4 Bit Adder-Substractor|
+|DAY 6|8x3 Priority Encoder without using IF-ELSE & CASEX|
+|DAY 7|N-BIT Divider Circuit|
+|DAY 8|Detect No. of 1's in a BYTE and display as 4-bit Output using FAs|
+|DAY 9|GRAY to BINARY Code Converter using minimum nos. of DEMUX
+|DAY 10|4 Bit Multiplier|
+|Day 11|8 Bit ALU|
 Simulation Tool: MODELSIM
