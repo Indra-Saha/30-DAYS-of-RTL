@@ -28,6 +28,7 @@ Please refer to the below Table
 |DAY 9|GRAY to BINARY Code Converter using minimum nos. of DEMUX
 |DAY 10|4 Bit Multiplier|
 |Day 11|8 Bit ALU|
+|DAY 12|Bidirectional Buffer|
 
 # DESIGN TOOLS USED
 
