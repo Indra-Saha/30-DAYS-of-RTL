@@ -29,6 +29,9 @@ Please refer to the below Table
 |DAY 10|4 Bit Multiplier|
 |Day 11|8 Bit ALU|
 |DAY 12|Bidirectional Buffer|
+|DAY 13|4 Bit Serial In Serial Out (SISO) Right Shifter Register|
+|Day 14|4 Bit Parallel In Serial Out (PISO) Right Shift Register|
+|Day 15|4 Bit Parallel In Parallel Out (PIPO) Left Shift Register
 
 # DESIGN TOOLS USED
 
