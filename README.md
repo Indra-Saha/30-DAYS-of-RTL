@@ -31,7 +31,8 @@ Please refer to the below Table
 |DAY 12|Bidirectional Buffer|
 |DAY 13|4 Bit Serial In Serial Out (SISO) Right Shifter Register|
 |Day 14|4 Bit Parallel In Serial Out (PISO) Right Shift Register|
-|Day 15|4 Bit Parallel In Parallel Out (PIPO) Left Shift Register
+|Day 15|4 Bit Parallel In Parallel Out (PIPO) Left Shift Register|
+|Day 16|4 Bit Universal Shift Register|
 
 # DESIGN TOOLS USED
 
