@@ -33,6 +33,7 @@ Please refer to the below Table
 |Day 14|4 Bit Parallel In Serial Out (PISO) Right Shift Register|
 |Day 15|4 Bit Parallel In Parallel Out (PIPO) Left Shift Register|
 |Day 16|4 Bit Universal Shift Register|
+|DAY 17| Divisible by N|
 
 # DESIGN TOOLS USED
 
