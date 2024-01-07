@@ -34,6 +34,8 @@ Please refer to the below Table
 |Day 15|4 Bit Parallel In Parallel Out (PIPO) Left Shift Register|
 |Day 16|4 Bit Universal Shift Register|
 |DAY 17| Divisible by N|
+|DAY 18| Ring Counter|
+|DAY 19| Twisted Ring Counter (Johnson Counter)|
 
 # DESIGN TOOLS USED
 
