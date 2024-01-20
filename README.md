@@ -36,6 +36,8 @@ Please refer to the below Table
 |DAY 17| Divisible by N|
 |DAY 18| Ring Counter|
 |DAY 19| Twisted Ring Counter (Johnson Counter)|
+|DAY 20| Divide by 5 Counter with 50% Duty Cycle|
+|Day 21| Divide by 1.5 Counter with 33.33% Duty Cycle|
 
 # DESIGN TOOLS USED
 
