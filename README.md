@@ -38,6 +38,7 @@ Please refer to the below Table
 |DAY 19| Twisted Ring Counter (Johnson Counter)|
 |DAY 20| Divide by 5 Counter with 50% Duty Cycle|
 |Day 21| Divide by 1.5 Counter with 33.33% Duty Cycle|
+|Day 22| 32 Bit Fibonacci Series|
 
 # DESIGN TOOLS USED
 
