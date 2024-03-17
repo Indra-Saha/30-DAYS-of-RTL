@@ -39,7 +39,7 @@ Please refer to the below Table
 |DAY 20| Divide by 5 Counter with 50% Duty Cycle|
 |Day 21| Divide by 1.5 Counter with 33.33% Duty Cycle|
 |Day 22| 32 Bit Fibonacci Series|
-|Day 23 | Generating 40 MHz Clock with 40% duty cycle, 20 MHz Clock with 20% duty cycle and 20 MHz Clock with 40% duty cycle from the 100MHz input clock signal|
+|Day 23| Generating 40 MHz, 40% duty cycle, 20 MHz, 20% duty cycle & 20 MHz, 40% duty cycle from 100MHz I/P CLK|
 
 # DESIGN TOOLS USED
 
