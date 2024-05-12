@@ -40,6 +40,8 @@ Please refer to the below Table
 |Day 21| Divide by 1.5 Counter with 33.33% Duty Cycle|
 |Day 22| 32 Bit Fibonacci Series|
 |Day 23| Generating 40 MHz, 40% duty cycle, 20 MHz, 20% duty cycle & 20 MHz, 40% duty cycle from 100MHz I/P CLK|
+|Day 24| 3bit Even Parity Generator using Moore's FSM|
+|Day 25| Digital BCD Clock Design with 1Hz Input Frequnecy|
 
 # DESIGN TOOLS USED
 
