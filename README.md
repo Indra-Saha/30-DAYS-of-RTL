@@ -45,6 +45,7 @@ Please refer to the below Table
 |Day 26| N Bit Asynchronous FIFO|
 |Day 27| Round Robin Arbiter|
 |DAY 28| 32 Bit Special Sequence Generator|
+|Day 29| Full Duplex UART IP Core Design Project|
 
 # DESIGN TOOLS USED
 
